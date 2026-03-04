@@ -1,0 +1,2 @@
+Error occurred: command "sidfj" not found
+01:11:30
